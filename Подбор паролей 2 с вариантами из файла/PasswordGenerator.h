@@ -43,6 +43,7 @@ void Password_4_symbol(string& arr, string& pasvar)
 		}
 		if (!flag) break;
 	}
+	//test change
 }
 
 
